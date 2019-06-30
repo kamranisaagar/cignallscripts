@@ -1,6 +1,6 @@
 cd C:/mpulse/scripts/postcash/
 
-start /min sendTrans_batch.bat
+rem start /min sendTrans_batch.bat
 
 exit
 
