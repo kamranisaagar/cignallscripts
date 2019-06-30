@@ -1,6 +1,6 @@
 cd C:/mpulse/scripts/executables/
 
 echo "Downloading Catalog"
-DownloadCatalog.exe
+rem DownloadCatalog.exe
 
 exit
